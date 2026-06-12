@@ -1,5 +1,5 @@
 # 1. one time each project to to start git 
-git init
+git init 
 
 # 2. every to add 
 git add .
